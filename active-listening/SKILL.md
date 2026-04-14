@@ -1,6 +1,6 @@
 ---
 name: active-listening
-version: "1.0.0"
+version: "1.1.0"
 description: "Active Listening (Carl Rogers + modern extensions) -- master the skill of truly hearing another person. Covers 5 levels of listening, core techniques (paraphrasing, reflecting, summarizing), barriers, and practice exercises. The single most impactful communication skill."
 tools:
   - Read
@@ -101,6 +101,16 @@ Allow pauses. Do not fill them.
 When someone stops talking, they are often processing. The next thing they say — after the silence — is frequently the most important thing in the entire conversation.
 
 **The 3-second rule:** After someone finishes speaking, wait 3 full seconds before responding. This feels eternal. It is transformative.
+
+### Three Types of Silence (침묵의 3가지 종류)
+
+| Type | Signs | Your Response |
+|------|-------|--------------|
+| **Thinking Silence** (생각하는 침묵) | Eyes moving, slight head tilt | Wait. They're processing. Don't interrupt. |
+| **Emotional Silence** (감정적 침묵) | Tears, looking down, shallow breathing | Be present. Gentle "take your time." No words needed. |
+| **Resistant Silence** (저항의 침묵) | Arms crossed, looking away, jaw tight | Change approach. "I sense this isn't the right time. What would help?" |
+
+Misreading silence type is a common mistake — treating thinking silence as resistance (rushing them) or emotional silence as thinking silence (asking analytical questions).
 
 **When silence works:** After an emotional statement, when someone is searching for words, after asking a deep question.
 

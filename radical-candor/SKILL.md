@@ -1,6 +1,6 @@
 ---
 name: Radical Candor
-version: "1.0.0"
+version: "1.1.0"
 description: |
   Radical Candor (Kim Scott) feedback framework — Care Personally while Challenging Directly.
   Navigate the 2x2 matrix to give praise and criticism that drives growth without destroying trust.
@@ -43,6 +43,32 @@ tools:
 | **Ruinous Empathy** (파멸적 공감) | HIGH | LOW | Stagnation — "nice but unhelpful" |
 | **Obnoxious Aggression** (불쾌한 공격) | LOW | HIGH | Fear — "brutal honesty without care" |
 | **Manipulative Insincerity** (조작적 불성실) | LOW | LOW | Backstabbing, politics, passive-aggression |
+
+### Prerequisite: Psychological Safety (Amy Edmondson)
+
+Radical Candor only works in environments with **psychological safety** -- the belief that you won't be punished for speaking up.
+
+Without psychological safety:
+- "Challenge Directly" becomes career suicide
+- Feedback flows only downward, never upward
+- People perform Ruinous Empathy to survive
+
+**How to build psychological safety (before attempting Radical Candor):**
+1. **Leader goes first** -- share YOUR mistakes, ask for feedback on yourself
+2. **Respond to bad news with curiosity, not punishment** -- "Tell me more" instead of "How did you let this happen?"
+3. **Celebrate "useful failures" and learning** -- normalize that mistakes are data, not character flaws
+4. **Make it safe to say "I don't know"** -- model intellectual humility from the top
+
+Without this foundation, Radical Candor degenerates:
+- In fear-based cultures, "Challenge Directly" reads as Obnoxious Aggression
+- People who try Radical Candor upward get labeled as "difficult" or "not a team player"
+- The 2x2 matrix becomes purely theoretical -- everyone defaults to Ruinous Empathy or Manipulative Insincerity for self-preservation
+
+**Assessment:** Before rolling out Radical Candor in a team, ask: "Could the most junior person in this room tell the most senior person they're wrong -- and feel safe doing so?" If the answer is no, start with psychological safety.
+
+Reference: Edmondson, A. (2019). *The Fearless Organization*. Wiley.
+
+---
 
 ### The "Um" Story (김스콧의 결정적 순간)
 

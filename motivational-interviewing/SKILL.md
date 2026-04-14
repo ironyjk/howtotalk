@@ -1,6 +1,6 @@
 ---
 name: Motivational Interviewing
-version: "1.0.0"
+version: "1.1.0"
 description: |
   Motivational Interviewing (Miller & Rollnick) — a collaborative, person-centered approach
   to strengthening a person's own motivation for change. Resist the Righting Reflex.
@@ -175,6 +175,19 @@ This forces them to articulate reasons FOR change — their own Change Talk.
 - You: "So your health and your kids' concern matter to you."
 
 **Never ask why they didn't pick a HIGHER number** — that evokes Sustain Talk.
+
+### The Magic Follow-Up Question
+
+After they give a number (e.g., "I'm at a 4"):
+- "Why aren't you at a 10?" (focuses on deficit -> resistance)
+- **"Why a 4 and not a 1?"** (focuses on existing motivation -> change talk)
+
+This question forces them to articulate their OWN reasons for change. Whatever they say IS change talk. Reflect it back and build on it.
+
+Example:
+> "So you're at a 4. What makes it a 4 and not a 1?"
+> "Well, I guess I know I should probably..."
+> "So part of you already sees the value in..." (reflection)
 
 ---
 

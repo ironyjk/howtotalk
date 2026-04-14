@@ -1,6 +1,6 @@
 ---
 name: nvc
-version: "1.0.0"
+version: "1.1.0"
 description: "Nonviolent Communication (Marshall Rosenberg) - Transform conflict into connection through observation, feelings, needs, and requests"
 tools:
   - Read
@@ -127,6 +127,19 @@ Listen to understand, not to fix or reply:
 ### 3. Honest Expression (솔직한 표현)
 Speak your truth without blame:
 - "When I [observation], I feel [feeling] because I need [need]. Would you be willing to [request]?"
+
+---
+
+## When NVC Doesn't Work: Emergency Empathy
+
+When you've done all 4 steps and the other person shows no response:
+1. **Stop talking.** More NVC words won't help.
+2. **Switch to Self-Empathy**: Internally acknowledge YOUR feelings and needs right now
+3. **Silent Empathy**: Just be present. No words. Hold space.
+4. **The 10-Second Rule**: After stating your request, wait at least 10 seconds of silence before speaking again
+5. **Strategic Retreat**: "I can see this is hard. I'm going to give us both some space. Can we come back to this tomorrow?"
+
+Common trap: Repeating NVC steps louder/slower when they don't work the first time. NVC is not a magic spell — if the emotional temperature is too high, switch to Active Listening only.
 
 ---
 

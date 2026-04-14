@@ -1,6 +1,6 @@
 ---
 name: Difficult Conversations
-version: "1.0.0"
+version: "1.1.0"
 description: |
   Difficult Conversations (Stone, Patton, Heen — Harvard Negotiation Project).
   Navigate conflict by understanding the Three Conversations beneath every disagreement.
@@ -143,6 +143,18 @@ The Third Story:
 - "I'd like to talk about [topic]. I think we see it differently, and I'd like to understand your perspective." (제3의 이야기 시작)
 - "I've been thinking about [situation] and I realize I might be missing something. Can we talk?"
 - "There's something that's been on my mind. I'm not sure I'm seeing it right, but I want to share it and hear your thoughts."
+
+---
+
+## Safety Warning: When NOT to Use This Framework
+
+This framework assumes a **roughly equal power dynamic** between parties. Do NOT use in:
+- **Domestic violence or abuse** — "finding your contribution" can blame the victim
+- **Harassment situations** — the perpetrator is responsible, not the target
+- **Active addiction/crisis** — professional help needed first
+- If you feel physically unsafe, contact a professional:
+  - Korea: 1393 (자살예방) / 1366 (여성긴급전화) / 112 (경찰)
+  - US: 988 (Suicide & Crisis) / 1-800-799-7233 (DV Hotline)
 
 ---
 

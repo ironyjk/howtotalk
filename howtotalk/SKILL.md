@@ -1,6 +1,6 @@
 ---
 name: howtotalk
-version: "1.0.0"
+version: "1.1.0"
 description: "Meta Communication Agent -- the router/orchestrator that selects the best communication framework(s) based on your situation. Analyzes context, routes to the optimal framework pipeline, resolves conflicts between approaches, and provides integrated guidance. Like /think but for human communication strategy."
 tools:
   - Read
@@ -465,6 +465,12 @@ The emotional temperature of the situation changes which frameworks are availabl
 ### Crisis (Emotion Level: 10/10)
 **Available:** Active Listening ONLY. Nothing else works when the amygdala has fully hijacked the prefrontal cortex.
 **Goal:** De-escalate to HIGH before using any other framework.
+
+**If someone is in danger of self-harm or harming others, communication frameworks are NOT the answer. Connect to professional help immediately:**
+- Korea: 1393 (자살예방상담전화) / 1366 (여성긴급전화) / 112 (경찰)
+- US: 988 (Suicide & Crisis Lifeline) / 911 (Emergency)
+- Japan: 0570-064-556 (いのちの電話)
+- International: befrienders.org/find-support
 
 ### High (Emotion Level: 7-9/10)
 **Available:** Active Listening, SCARF, NVC (observation + feeling only, no requests yet)

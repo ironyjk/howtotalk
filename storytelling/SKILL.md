@@ -1,6 +1,6 @@
 ---
 name: Storytelling Frameworks
-version: "1.0.0"
+version: "1.1.0"
 description: |
   Storytelling frameworks for business, presentations, interviews, and persuasion.
   Hero's Journey, STAR, PAS, Pixar Story Spine, Nancy Duarte's Sparkline.
@@ -226,11 +226,44 @@ Each swing creates contrast and tension. The audience is pulled between dissatis
 
 ---
 
+## Framework 6: 기승전결 (起承轉結) — Korean/East Asian Narrative
+
+The traditional Korean 4-act structure:
+
+| Stage | 한자 | Meaning | Function |
+|-------|------|---------|----------|
+| 기(起) | Rise | Introduction | Set the scene, present the topic |
+| 승(承) | Continue | Development | Build on the introduction, add details |
+| 전(轉) | Turn | Twist/Pivot | Unexpected turn, new perspective, the "but..." |
+| 결(結) | Conclude | Resolution | Wrap up, lesson learned, call to action |
+
+When to use: Korean business presentations, writing for Korean audiences, any situation where the audience expects gradual build-up before the point.
+
+---
+
+## Framework 7: 두괄식 (頭括式) — Conclusion-First
+
+Korean business standard: State the conclusion/recommendation FIRST, then support with evidence.
+
+- Opposite of Hero's Journey (which builds to climax)
+- Used in: Korean corporate reports, military briefings, executive summaries
+- Structure: Bottom Line → Supporting Point 1 → Supporting Point 2 → Restatement
+
+---
+
 ## Sub-commands
 
 ### /story
 
 Analyze a communication need and recommend the best framework.
+
+### /story:korean
+
+Apply 기승전결 or 두괄식 to your content. Analyzes whether your audience/context calls for gradual build-up (기승전결) or conclusion-first (두괄식).
+
+**Input**: Your topic, audience, and context (Korean business? presentation? report?).
+
+**Output**: Structured narrative using the appropriate Korean framework.
 
 **Input**: What you need to communicate, to whom, and for what purpose.
 

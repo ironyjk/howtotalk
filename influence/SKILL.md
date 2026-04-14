@@ -1,6 +1,6 @@
 ---
 name: influence
-version: "1.0.0"
+version: "1.1.0"
 description: "Influence (Robert Cialdini) - The 7 principles of persuasion for ethical influence and defense against manipulation"
 tools:
   - Read
@@ -343,6 +343,21 @@ Cialdini himself emphasizes: these tools should be used to **point people toward
 
 If all three are yes: use the principles freely.
 If any is no: reconsider.
+
+---
+
+## Persuasion vs Manipulation: The Line (설득 vs 조작의 경계)
+
+| Situation | Persuasion (OK) | Manipulation (NOT OK) |
+|-----------|----------------|----------------------|
+| Scarcity | "Only 3 spots left" (true) | "Only 3 spots left" (actually 300) |
+| Social Proof | "80% of customers chose this" (verified) | Cherry-picked fake reviews |
+| Authority | Citing real credentials | Fake titles, borrowed credibility |
+| Reciprocity | Genuine free sample | "Free" with hidden obligations |
+| Liking | Finding real common ground | Faking interests to build rapport |
+| Commitment | "You said X, does that still apply?" | Bait-and-switch after commitment |
+
+**The Transparency Test**: If the other person knew exactly what technique you were using, would they still be OK with it? If yes → persuasion. If no → manipulation.
 
 ---
 
