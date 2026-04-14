@@ -1,6 +1,7 @@
 ---
 name: active-listening
 version: "1.1.0"
+user-invocable: false
 description: "Active Listening (Carl Rogers + modern extensions) -- master the skill of truly hearing another person. Covers 5 levels of listening, core techniques (paraphrasing, reflecting, summarizing), barriers, and practice exercises. The single most impactful communication skill."
 tools:
   - Read

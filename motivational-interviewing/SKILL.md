@@ -1,6 +1,7 @@
 ---
 name: Motivational Interviewing
 version: "1.1.0"
+user-invocable: false
 description: |
   Motivational Interviewing (Miller & Rollnick) — a collaborative, person-centered approach
   to strengthening a person's own motivation for change. Resist the Righting Reflex.

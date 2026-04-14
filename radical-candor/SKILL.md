@@ -1,6 +1,7 @@
 ---
 name: Radical Candor
 version: "1.1.0"
+user-invocable: false
 description: |
   Radical Candor (Kim Scott) feedback framework — Care Personally while Challenging Directly.
   Navigate the 2x2 matrix to give praise and criticism that drives growth without destroying trust.

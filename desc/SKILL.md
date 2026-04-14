@@ -1,6 +1,7 @@
 ---
 name: desc
 version: "1.0.0"
+user-invocable: false
 description: "DESC Assertiveness Framework -- structured 4-step method for assertive communication. Describe facts, Express feelings, Specify requests, state Consequences. Includes assertiveness spectrum, I-statements, broken record, fogging, and practice simulations."
 tools:
   - Read

@@ -1,6 +1,7 @@
 ---
 name: Difficult Conversations
 version: "1.1.0"
+user-invocable: false
 description: |
   Difficult Conversations (Stone, Patton, Heen — Harvard Negotiation Project).
   Navigate conflict by understanding the Three Conversations beneath every disagreement.

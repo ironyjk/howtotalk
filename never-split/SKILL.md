@@ -1,6 +1,7 @@
 ---
 name: never-split
 version: "1.0.0"
+user-invocable: false
 description: "Never Split the Difference (Chris Voss) - FBI hostage negotiation tactics applied to everyday negotiation"
 tools:
   - Read

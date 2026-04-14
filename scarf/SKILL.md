@@ -1,6 +1,7 @@
 ---
 name: scarf
 version: "1.0.0"
+user-invocable: false
 description: "SCARF Model (David Rock, NeuroLeadership) -- understand and manage the 5 social domains that trigger threat or reward responses in the brain. Use for team management, feedback, change leadership, negotiations, and any interpersonal interaction where emotions run high."
 tools:
   - Read

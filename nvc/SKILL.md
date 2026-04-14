@@ -1,6 +1,7 @@
 ---
 name: nvc
 version: "1.1.0"
+user-invocable: false
 description: "Nonviolent Communication (Marshall Rosenberg) - Transform conflict into connection through observation, feelings, needs, and requests"
 tools:
   - Read

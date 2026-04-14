@@ -1,6 +1,7 @@
 ---
 name: influence
 version: "1.1.0"
+user-invocable: false
 description: "Influence (Robert Cialdini) - The 7 principles of persuasion for ethical influence and defense against manipulation"
 tools:
   - Read

@@ -1,6 +1,7 @@
 ---
 name: getting-to-yes
 version: "1.0.0"
+user-invocable: false
 description: "Getting to Yes (Fisher & Ury, Harvard Negotiation Project) - Principled negotiation that separates people from problems and focuses on interests"
 tools:
   - Read

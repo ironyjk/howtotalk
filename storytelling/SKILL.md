@@ -1,6 +1,7 @@
 ---
 name: Storytelling Frameworks
 version: "1.1.0"
+user-invocable: false
 description: |
   Storytelling frameworks for business, presentations, interviews, and persuasion.
   Hero's Journey, STAR, PAS, Pixar Story Spine, Nancy Duarte's Sparkline.

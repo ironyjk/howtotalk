@@ -1,6 +1,7 @@
 ---
 name: Socratic Method
 version: "1.0.0"
+user-invocable: false
 description: |
   The Socratic Method — lead people to insight through disciplined questioning, not instruction.
   Six types of Socratic questions. Seminar format. When to use and when NOT to use.

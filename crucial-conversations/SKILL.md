@@ -1,6 +1,7 @@
 ---
 name: crucial-conversations
 version: "1.0.0"
+user-invocable: false
 description: "Crucial Conversations (Patterson, Grenny, McMillan, Switzler) - Talk when stakes are high, opinions vary, and emotions run strong"
 tools:
   - Read
