@@ -1,0 +1,29 @@
+{
+  "name": "howtotalk",
+  "description": "Meta Communication Agent — routes among 14 communication frameworks (NVC, Getting to Yes, Never Split the Difference, Radical Candor, Crucial Conversations, Difficult Conversations, Active Listening, DESC, Influence, Motivational Interviewing, SCARF, Socratic Method, Storytelling). Invoke /howtotalk.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Choi Hee Chul",
+    "email": "ironyjk@gmail.com"
+  },
+  "homepage": "https://github.com/ironyjk/howtotalk",
+  "repository": "https://github.com/ironyjk/howtotalk",
+  "license": "MIT",
+  "keywords": ["communication", "negotiation", "feedback", "storytelling", "nvc", "korean"],
+  "skills": [
+    "./active-listening",
+    "./crucial-conversations",
+    "./desc",
+    "./difficult-conversations",
+    "./getting-to-yes",
+    "./howtotalk",
+    "./influence",
+    "./motivational-interviewing",
+    "./never-split",
+    "./nvc",
+    "./radical-candor",
+    "./scarf",
+    "./socratic",
+    "./storytelling"
+  ]
+}
