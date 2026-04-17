@@ -88,6 +88,8 @@ Complex situations use multiple frameworks in sequence:
 
 ## Installation
 
+> 💡 **짧은 이름**: [래퍼 설정](https://github.com/ironyjk/claude-frameworks-marketplace#짧은-이름으로-쓰기-optional) 후 `/howtotalk`으로 호출 가능
+
 ### One-Line Install
 
 ```bash
