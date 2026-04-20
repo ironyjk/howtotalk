@@ -125,6 +125,21 @@ Works with any LLM — see [strategy-frameworks](https://github.com/ironyjk/stra
 - **[toc-agents](https://github.com/ironyjk/toc-agents)** — Theory of Constraints, 10 tools
 - **[triz-agents](https://github.com/ironyjk/triz-agents)** — TRIZ, 9 tools
 
+## Attribution & Trademarks
+
+This project implements well-known communication frameworks for educational purposes. The following trademarks are acknowledged:
+
+- **Crucial Conversations®** is a registered trademark of Crucial Learning (formerly VitalSmarts). Based on *Crucial Conversations* by Patterson, Grenny, McMillan & Switzler.
+- **Radical Candor®** is a registered trademark of Radical Candor LLC. Based on *Radical Candor* by Kim Scott.
+- **Nonviolent Communication® (NVC)** is a registered service mark of the Center for Nonviolent Communication (CNVC). Based on the work of Marshall B. Rosenberg.
+- **SCARF Model™** is a trademark of the NeuroLeadership Institute. Developed by David Rock.
+- **Never Split the Difference™** is associated with the Black Swan Group. Based on the work of Chris Voss.
+- **Motivational Interviewing™** is associated with the Motivational Interviewing Network of Trainers (MINT). Based on the work of William R. Miller & Stephen Rollnick.
+
+All other framework names (Getting to Yes, Difficult Conversations, DESC, Active Listening, Storytelling, Socratic Method, Influence) reference published academic works and are used descriptively.
+
+This project is not affiliated with, endorsed by, or sponsored by any of the above trademark holders.
+
 ## License
 
 MIT
