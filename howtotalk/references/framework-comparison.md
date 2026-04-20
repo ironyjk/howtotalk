@@ -1,5 +1,54 @@
 # Framework Comparison & Selection Guide
 
+## The 13 Frameworks — Quick Reference
+
+| # | Framework | Core Idea | Best For |
+|---|-----------|-----------|----------|
+| 1 | **NVC** | Observation-Feeling-Need-Request | Expressing without blame |
+| 2 | **Radical Candor** | Care Personally + Challenge Directly | Feedback and management |
+| 3 | **Crucial Conversations** | Make it safe to talk about anything | High-stakes disagreements |
+| 4 | **Difficult Conversations** | Three Conversations (What Happened, Feelings, Identity) | Emotionally loaded topics |
+| 5 | **Never Split the Difference** | Tactical empathy + calibrated questions | Negotiations and hostage-style standoffs |
+| 6 | **Getting to Yes** | Interests, not positions; BATNA | Principled negotiation |
+| 7 | **Influence** | 6 principles of persuasion | Ethical persuasion and marketing |
+| 8 | **Storytelling** | Narrative structure for persuasion | Presentations, pitches, leadership |
+| 9 | **Motivational Interviewing** | Roll with resistance, elicit change talk | Helping people change |
+| 10 | **Socratic Method** | Questions that lead to insight | Teaching, coaching, workshops |
+| 11 | **SCARF** | 5 social threat/reward domains | Team dynamics, change management |
+| 12 | **Active Listening** | Empathic presence + reflection techniques | Any conversation, especially emotional |
+| 13 | **DESC** | Describe-Express-Specify-Consequences | Assertive boundary-setting |
+
+---
+
+## Decision Flowchart
+
+```
+START
+  |
+  v
+Is someone in immediate danger or crisis?
+  YES --> Crisis response (not a communication framework problem)
+  NO  --> Continue
+  |
+  v
+What is the primary goal?
+  |
+  +--> UNDERSTAND someone --> Active Listening
+  +--> EXPRESS your needs --> NVC or DESC
+  +--> PERSUADE someone --> Influence + Storytelling
+  +--> NEGOTIATE an agreement --> Getting to Yes + Never Split
+  +--> GIVE FEEDBACK --> SCARF + Radical Candor
+  +--> RESOLVE CONFLICT --> Crucial Conversations + NVC
+  +--> HAVE A HARD TALK --> Difficult Conversations + Active Listening
+  +--> MOTIVATE CHANGE --> Motivational Interviewing + Socratic
+  +--> SET BOUNDARIES --> DESC + Radical Candor
+  +--> BUILD RAPPORT --> Active Listening + SCARF
+  +--> TEACH/COACH --> Socratic + Storytelling
+  +--> NOT SURE --> Universal Fallback Sequence
+```
+
+---
+
 ## When to Use What — Decision Table
 
 | You Need To... | First Choice | Why | Second Choice |
